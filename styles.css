@@ -1,0 +1,114 @@
+body{
+    font-family: 'Ubuntu';
+}
+.head{
+    font-family: "Montserrat";
+}
+.profile{
+    width: 250px;
+}
+
+.logo{
+    width: 35%;
+}
+
+.navbar{
+    padding: 0 0 4.5rem ;
+    background-color:  #0f3057;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: 800;
+}
+
+.nav-item{
+    padding: 0px 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-family: "Montserrat Alternates";
+    color: #00587a;
+}
+
+.big-heading{
+    font-family: "Montserrat";
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.title{
+    padding : 7% 12%;
+    background-color: #00587a;
+    text-align: center;
+    color:#14274e ;
+}
+
+.about{
+    padding: 7% 12%;
+    font-family: 'Ubuntu';
+    line-height: 2;
+    background-color: #e7e7de;
+}
+.edu{
+    padding: 7% 12%;
+    line-height: 2.5;
+    text-align: center;
+    background-color: #ff9642;
+    color: #db6400
+}
+
+.head-edu{
+    padding: 4% 0%;
+    margin-left: 30px;
+}
+
+.social-icon{
+    margin: 20px 10px;
+}
+#footer{
+    padding: 3%;
+    text-align: center;
+}
+.html{
+    width: 70%;
+    margin-left: 50px;
+}
+.css , .js {
+    width: 50%;
+    margin-left: 80px;
+}
+.jquery{
+    width: 100%;
+}
+.bootstrap{
+    width: 70%;
+    margin-left: 46px;
+}
+.skills{
+    padding: 7% 12%;
+}
+.skill-head{
+    padding :3% 12%;
+    text-align: center;
+}
+.site{
+    padding :7% 12%;
+    background-color: #e8ffff;
+    color:#14274e ;
+}
+
+#skill{
+    padding: 100px;
+}
+
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+#footer{
+    background-color: #a3d8f4 ;
+ }
